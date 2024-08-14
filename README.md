@@ -19,5 +19,7 @@ Visual Studio Code (VS Code), untuk pengembangan Flutter dan Dart.
 Menggunakan MVVM (Model-View-ViewModel)
 
 # Library & Framework
-Flutter: Framework utama untuk UI dan aplikasi multiplatform.
-http: Digunakan untuk komunikasi dengan RESTful API.
+
+- **Flutter**: Framework utama untuk UI dan aplikasi multiplatform.
+- **http**: Digunakan untuk komunikasi dengan RESTful API.
+
